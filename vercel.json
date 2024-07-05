@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/src/index.go"
+      "dest": "/src/server.go"
     },
     {
       "src": "/archlinux/**/*",
